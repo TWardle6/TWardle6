@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning how to code
+⚡ I'm looking to change careers from Law to the tech industry
+💻 I will be taking part in the #100DaysOfCode challenge and will document my progress!
+
 <!--
 **TWardle6/TWardle6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
