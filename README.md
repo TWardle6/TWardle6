@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>🌱 I’m currently learning how to code</p>
+<p>🌱 I’m currently learning how to code with the School of Code</p>
 <p>⚡ I'm looking to change careers from Law to the tech industry</p>
 <p>💻 I will be taking part in the #100DaysOfCode challenge and will document my progress!</p>
 
