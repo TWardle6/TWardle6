@@ -8,7 +8,7 @@ Lawyer Turned Junior Full-Stack Developer
 
 * 🌍  I'm based in Shropshire, West Midlands
 * ✉️  You can contact me at [twardle6@googlemail.com](mailto:twardle6@googlemail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm currently trying to improve my Next.js skills
 
 <a href="https://www.github.com/TWardle6" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TWardle6?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
