@@ -4,8 +4,10 @@ Hi 👋 My name is Thomas Wardle
 Lawyer Turned Junior Full-Stack Developer
 -----------------------------------------
 
-🌱 I have just completed a 16 week coding bootcamp with the School of Code ⚡ I'm looking to change careers from Law to the tech industry
 
+
+* 🌱 I have just completed a 16 week coding bootcamp with the School of Code
+* ⚡ I'm looking to change careers from Law to the tech industry
 * 🌍  I'm based in Shropshire, West Midlands
 * ✉️  You can contact me at [twardle6@googlemail.com](mailto:twardle6@googlemail.com)
 * 🧠  I'm learning Next.js
