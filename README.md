@@ -4,6 +4,10 @@ Hi 👋 My name is Thomas Wardle
 Lawyer Turned Junior Full-Stack Developer
 -----------------------------------------
 
+As a former Private Client Solicitor turned coder, I like to think that I am able to
+translate the analytical, problem solving and communication skills that I had developed
+as lawyer into the world tech despite taking a huge leap from the career that I was
+familiar with.
 
 
 * 🌱 I have just completed a 16 week coding bootcamp with the School of Code
