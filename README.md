@@ -16,8 +16,6 @@ familiar with.
 * ✉️  You can contact me at [twardle6@googlemail.com](mailto:twardle6@googlemail.com)
 * 🧠  I'm currently trying to improve my Next.js skills!
 
-<a href="https://www.github.com/TWardle6" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TWardle6?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -51,4 +49,12 @@ src="https://img.shields.io/github/followers/TWardle6?logo=github&style=for-the-
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
+<a href="https://www.github.com/TWardle6" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TWardle6?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 [![](https://visitcount.itsvg.in/api?id=TWardle6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+
