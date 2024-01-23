@@ -1,7 +1,7 @@
 Hi 👋 My name is Thomas Wardle
 ==============================
 
-Lawyer Turned Junior Full-Stack Developer
+Lawyer Turned Junior Full-Stack Developer!
 -----------------------------------------
 
 As a former Private Client Solicitor turned coder, I like to think that I am able to
