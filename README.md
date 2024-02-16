@@ -14,7 +14,7 @@ familiar with.
 * ⚡ I'm looking to change careers from Law to the tech industry and would ideally like to work in a junior full-stack developer role 
 * 🌍  I'm based in Shropshire, West Midlands
 * ✉️  You can contact me at [twardle6@googlemail.com](mailto:twardle6@googlemail.com)
-* 🧠  I'm currently trying to improve my Next.js skills!
+* 🧠  I'm currently trying to improve my Next.js and TypeScript skills!
 
 
 ### Skills
