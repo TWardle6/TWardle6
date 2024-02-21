@@ -1,4 +1,4 @@
-Hi 👋 My name is Tom Wardle
+Hi 👋 My name is Thomas Wardle
 ==============================
 
 Lawyer Turned Junior Software Developer!
